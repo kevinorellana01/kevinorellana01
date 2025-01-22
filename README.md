@@ -11,16 +11,13 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kevinorellana01/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kevin | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+<a href="https://linkedin.com/in/Kevin" target="_blank" style="margin-left:10px;">
+  <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@kevinn.orellana01" target="_blank" style="margin-left:10px;">
+  <img alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 [linkedin]: https://www.linkedin.com/in/kevin-orellana-6457aa252/
 [medium]: https://medium.com/@kevinn.orellana01
-
-
-<a href="https://linkedin.com/in/Kevin" style="text-decoration:none;">
-  <img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@kevinn.orellana01" style="text-decoration:none;">
-  <img align="left" alt="Kevin | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
