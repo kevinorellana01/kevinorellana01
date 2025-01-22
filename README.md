@@ -12,12 +12,12 @@
 
 <h2>🤳Connect with me:</h2>
 
-<div style="margin-top: 10px;">
-  <a href="https://linkedin.com/in/kevin-orellana-6457aa252/" target="_blank" style="text-decoration:none; margin-right:30px;">
-    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<div style="margin-top: 15px;">
+  <a href="https://linkedin.com/in/kevin-orellana-6457aa252/" target="_blank" style="text-decoration:none; margin-right:50px;">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://medium.com/@kevinn.orellana01" target="_blank" style="text-decoration:none;">
-    <img alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+    <img alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
 </div>
 
