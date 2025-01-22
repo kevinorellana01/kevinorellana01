@@ -12,8 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/kevin-orellana-6457aa252/]
-[<img align="left" alt="Kevin | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://medium.com/@kevinn.orellana01]
+[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kevin | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 [linkedin]: https://www.linkedin.com/in/kevin-orellana-6457aa252/
 [medium]: https://medium.com/@kevinn.orellana01
