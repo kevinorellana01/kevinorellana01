@@ -16,7 +16,8 @@
   - [VPC Full Stack](https://github.com/kevinorellana01/vpc-cloudformation-project)
 - <b>Building and Deploying a Scalable Next.js Portfolio Website on AWS with Terraform</b>
   - [Portfolio Website Deployment with AWS and Terraform](https://github.com/kevinorellana01/terraform-portfolio-project)
-
+- <b>Simple GitHub Actions Workflow</b>
+  - [GitHub Actions Workflow](https://github.com/kevinorellana01/github-actions-workflow)
 
 <h2>🤳Connect with me:</h2>
 
