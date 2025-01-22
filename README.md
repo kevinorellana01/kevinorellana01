@@ -11,9 +11,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kevinorellana01/azure-network-protocols)
 
 <h2>☁️💻🔧 Cloud Engineering Projects:</h2>
+
 - <b>AWS VPC Creation with CloudFormation</b>
  - [VPC Full Stack](https://github.com/kevinorellana01/vpc-cloudformation-project)
-
 - <b>Building and Deploying a Scalable Next.js Portfolio Website on AWS with Terraform</b>
  - [Portfolio Website Deployment with AWS and Terraform](https://github.com/kevinorellana01/terraform-portfolio-project)
 
