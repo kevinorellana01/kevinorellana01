@@ -12,7 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-<div style="margin-top: 10px;">
+<div style="margin-top: 20px;">
   <a href="https://linkedin.com/in/kevin-orellana-6457aa252/" target="_blank" style="text-decoration:none; margin-right:20px;">
     <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
