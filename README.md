@@ -12,8 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-<div style="display: flex; align-items: center; gap: 30px; margin-top: 15px;">
-  <a href="https://linkedin.com/in/Kevin" target="_blank" style="text-decoration:none;">
+<div style="margin-top: 15px;">
+  <a href="https://linkedin.com/in/Kevin" target="_blank" style="text-decoration:none; margin-right: 20px;">
     <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://medium.com/@kevinn.orellana01" target="_blank" style="text-decoration:none;">
