@@ -12,14 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-<div style="margin-top: 15px;">
-  <a href="https://linkedin.com/in/Kevin" target="_blank" style="text-decoration:none; margin-right: 20px;">
-    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://medium.com/@kevinn.orellana01" target="_blank" style="text-decoration:none;">
-    <img alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-  </a>
-</div>
+[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/kevin-orellana-6457aa252/]
+[<img align="left" alt="Kevin | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][https://medium.com/@kevinn.orellana01]
 
 [linkedin]: https://www.linkedin.com/in/kevin-orellana-6457aa252/
 [medium]: https://medium.com/@kevinn.orellana01
