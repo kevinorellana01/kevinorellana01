@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://www.linkedin.com/in/kevin-orellana-6457aa252/]
+[linkedin]: https://www.linkedin.com/in/kevin-orellana-6457aa252/
