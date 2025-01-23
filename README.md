@@ -12,7 +12,7 @@
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
   - [Active Directory: Deploying Active Directory](https://github.com/kevinorellana01/deploying-ad)
-  - [Active Directory: Creating Users with PowerShell, Group Policy, and Managing Accounts](https://github.com/kevinorellana01/ad-practice)
+  - [Active Directory: AD Use Cases Examples](https://github.com/kevinorellana01/ad-practice)
 
 <h2>☁️💻🔧 Cloud Engineering Projects:</h2>
 
