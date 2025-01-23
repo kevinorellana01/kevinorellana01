@@ -9,6 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kevinorellana01/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kevinorellana01/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
+  - [Active Directory: Deploying Active Directory](https://github.com/kevinorellana01/deploying-ad)
+  - [Active Directory: Creating Users with PowerShell, Group Policy, and Managing Accounts](https://github.com/kevinorellana01/ad-practice)
 
 <h2>☁️💻🔧 Cloud Engineering Projects:</h2>
 
