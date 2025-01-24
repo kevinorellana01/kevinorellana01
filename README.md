@@ -7,7 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kevinorellana01/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kevinorellana01/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kevinorellana01/azure-network-protocols)
+  - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/kevinorellana01/azure-setup)
+  - [Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kevinorellana01/azure-network-protocols)
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
   - [Active Directory: Deploying Active Directory](https://github.com/kevinorellana01/deploying-ad)
