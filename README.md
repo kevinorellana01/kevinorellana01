@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kevinorellana01/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/kevinorellana01/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/kevinorellana01/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/kevinorellana01/azure-setup)
   - [Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kevinorellana01/azure-network-protocols)
@@ -13,6 +9,10 @@
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
   - [Active Directory: Deploying Active Directory](https://github.com/kevinorellana01/deploying-ad)
   - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/kevinorellana01/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/kevinorellana01/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/kevinorellana01/ticket-lifecycle)
 
 <h2>☁️💻🔧 Cloud Engineering Projects:</h2>
 
